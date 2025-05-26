@@ -1,2 +1,2 @@
 # Gestion-notifications
-Il s'agit de créer une application de gestion de noifications des évènements
+Je me nomme AKOULOUZE MANY EVA étudiante au 3GI à l'ENSPY et ceci est une application de gestio des notifications des évènements.
