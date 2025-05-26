@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<evenements count="4" exportDate="2025-05-25T11:45:13.1337641">
+  <evenement id="CONC_2025_002" type="concert">
+    <nom>Soirée Rock Classique</nom>
+    <date>2025-07-23T16:00:19.1754365</date>
+    <lieu>Zénith de Paris</lieu>
+    <capaciteMax>5000</capaciteMax>
+    <participants count="3">
+      <participant id="PART_001">
+        <nom>Alice Dubois</nom>
+        <email>alice.dubois@email.com</email>
+      </participant>
+      <participant id="PART_004">
+        <nom>David Moreau</nom>
+        <email>david.moreau@email.com</email>
+      </participant>
+      <participant id="PART_005">
+        <nom>Emma Bernard</nom>
+        <email>emma.bernard@email.com</email>
+      </participant>
+    </participants>
+    <artiste>The Legacy Band</artiste>
+    <genreMusical>Rock Classique</genreMusical>
+  </evenement>
+  <evenement id="CONC_2025_001" type="concert">
+    <nom>Festival Jazz Spring</nom>
+    <date>2025-07-08T16:00:19.1754365</date>
+    <lieu>Olympia, Paris</lieu>
+    <capaciteMax>800</capaciteMax>
+    <participants count="1">
+      <participant id="PART_005">
+        <nom>Emma Bernard</nom>
+        <email>emma.bernard@email.com</email>
+      </participant>
+    </participants>
+    <artiste>Marcus Miller Trio</artiste>
+    <genreMusical>Jazz Fusion</genreMusical>
+  </evenement>
+  <evenement id="CONF_2025_001" type="conference">
+    <nom>Conférence Tech Innovation 2025</nom>
+    <date>2025-06-23T16:00:19.1754365</date>
+    <lieu>Centre de Conférences de Paris</lieu>
+    <capaciteMax>150</capaciteMax>
+    <participants count="2">
+      <participant id="PART_002">
+        <nom>Bob Martin</nom>
+        <email>bob.martin@email.com</email>
+      </participant>
+      <participant id="PART_005">
+        <nom>Emma Bernard</nom>
+        <email>emma.bernard@email.com</email>
+      </participant>
+    </participants>
+    <theme>Intelligence Artificielle et Futur</theme>
+  </evenement>
+  <evenement id="CONF_2025_002" type="conference">
+    <nom>Séminaire Développement Durable</nom>
+    <date>2025-06-08T16:00:19.1754365</date>
+    <lieu>Palais des Congrès</lieu>
+    <capaciteMax>200</capaciteMax>
+    <participants count="4">
+      <participant id="PART_001">
+        <nom>Alice Dubois</nom>
+        <email>alice.dubois@email.com</email>
+      </participant>
+      <participant id="PART_003">
+        <nom>Claire Petit</nom>
+        <email>claire.petit@email.com</email>
+      </participant>
+      <participant id="PART_005">
+        <nom>Emma Bernard</nom>
+        <email>emma.bernard@email.com</email>
+      </participant>
+      <participant id="PART_006">
+        <nom>François Leroy</nom>
+        <email>francois.leroy@email.com</email>
+      </participant>
+    </participants>
+    <theme>Écologie et Business</theme>
+  </evenement>
+</evenements>
