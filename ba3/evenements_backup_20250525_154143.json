@@ -1,0 +1,98 @@
+{
+  "CONC_2025_002" : {
+    "id" : "CONC_2025_002",
+    "nom" : "Soirée Rock Classique",
+    "date" : "2025-07-23T13:26:38.2258016",
+    "lieu" : "Zénith de Paris",
+    "capaciteMax" : 5000,
+    "participants" : [ {
+      "id" : "PART_001",
+      "nom" : "Alice Dubois",
+      "email" : "alice.dubois@email.com"
+    }, {
+      "id" : "PART_002",
+      "nom" : "Bob Martin",
+      "email" : "bob.martin@email.com"
+    }, {
+      "id" : "PART_003",
+      "nom" : "Claire Petit",
+      "email" : "claire.petit@email.com"
+    }, {
+      "id" : "PART_006",
+      "nom" : "François Leroy",
+      "email" : "francois.leroy@email.com"
+    } ],
+    "artiste" : "The Legacy Band",
+    "genreMusical" : "Rock Classique"
+  },
+  "CONC_2025_001" : {
+    "id" : "CONC_2025_001",
+    "nom" : "Festival Jazz Spring",
+    "date" : "2025-07-08T13:26:38.2247988",
+    "lieu" : "Olympia, Paris",
+    "capaciteMax" : 800,
+    "participants" : [ {
+      "id" : "PART_003",
+      "nom" : "Claire Petit",
+      "email" : "claire.petit@email.com"
+    }, {
+      "id" : "PART_005",
+      "nom" : "Emma Bernard",
+      "email" : "emma.bernard@email.com"
+    }, {
+      "id" : "PART_006",
+      "nom" : "François Leroy",
+      "email" : "francois.leroy@email.com"
+    } ],
+    "artiste" : "Marcus Miller Trio",
+    "genreMusical" : "Jazz Fusion"
+  },
+  "CONF_2025_001" : {
+    "id" : "CONF_2025_001",
+    "nom" : "Conférence Tech Innovation 2025",
+    "date" : "2025-06-23T13:26:38.2247988",
+    "lieu" : "Centre de Conférences de Paris",
+    "capaciteMax" : 150,
+    "participants" : [ {
+      "id" : "PART_001",
+      "nom" : "Alice Dubois",
+      "email" : "alice.dubois@email.com"
+    }, {
+      "id" : "PART_003",
+      "nom" : "Claire Petit",
+      "email" : "claire.petit@email.com"
+    }, {
+      "id" : "PART_005",
+      "nom" : "Emma Bernard",
+      "email" : "emma.bernard@email.com"
+    } ],
+    "theme" : "Intelligence Artificielle et Futur",
+    "intervenants" : [ ]
+  },
+  "CONF_2025_002" : {
+    "id" : "CONF_2025_002",
+    "nom" : "Séminaire Développement Durable",
+    "date" : "2025-06-08T13:26:38.2247988",
+    "lieu" : "Palais des Congrès",
+    "capaciteMax" : 200,
+    "participants" : [ {
+      "id" : "PART_001",
+      "nom" : "Alice Dubois",
+      "email" : "alice.dubois@email.com"
+    }, {
+      "id" : "PART_003",
+      "nom" : "Claire Petit",
+      "email" : "claire.petit@email.com"
+    }, {
+      "id" : "PART_005",
+      "nom" : "Emma Bernard",
+      "email" : "emma.bernard@email.com"
+    }, {
+      "id" : "PART_006",
+      "nom" : "François Leroy",
+      "email" : "francois.leroy@email.com"
+    } ],
+    "theme" : "Écologie et Business",
+    "intervenants" : [ ]
+  }
+}
