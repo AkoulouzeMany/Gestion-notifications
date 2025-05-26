@@ -1,0 +1,21 @@
+{
+  "CONF_2025_001" : {
+    "id" : "CONF_2025_001",
+    "nom" : "Conférence Tech Innovation 2025",
+    "date" : "2025-06-25T12:57:04.146508103",
+    "lieu" : "Centre de Conférences de Paris",
+    "capaciteMax" : 150,
+    "participants" : [ {
+      "id" : "PART_004",
+      "nom" : "David Moreau",
+      "email" : "david.moreau@email.com"
+    }, {
+      "id" : "PART_005",
+      "nom" : "Emma Bernard",
+      "email" : "emma.bernard@email.com"
+    } ],
+    "observers" : [ ],
+    "theme" : "Intelligence Artificielle et Futur",
+    "intervenants" : [ ]
+  }
+}
