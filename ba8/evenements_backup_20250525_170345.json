@@ -1,0 +1,21 @@
+{
+  "CONC_2025_002" : {
+    "id" : "CONC_2025_002",
+    "nom" : "Soirée Rock Classique",
+    "date" : "2025-07-24T15:28:25.2553062",
+    "lieu" : "Zénith de Paris",
+    "capaciteMax" : 5000,
+    "participants" : [ {
+      "id" : "PART_001",
+      "nom" : "Alice Dubois",
+      "email" : "alice.dubois@email.com"
+    }, {
+      "id" : "PART_005",
+      "nom" : "Emma Bernard",
+      "email" : "emma.bernard@email.com"
+    }, {
+      "id" : "PART_006",
+      "nom" : "François Leroy",
+      "email" : "francois.leroy@email.com"
+    } ],
+    "observers" : [
